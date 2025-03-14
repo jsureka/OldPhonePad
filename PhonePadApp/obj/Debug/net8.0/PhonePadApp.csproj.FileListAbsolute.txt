@@ -1,0 +1,15 @@
+/workspaces/OldPhonePad/PhonePadApp/bin/Debug/net8.0/PhonePadApp
+/workspaces/OldPhonePad/PhonePadApp/bin/Debug/net8.0/PhonePadApp.deps.json
+/workspaces/OldPhonePad/PhonePadApp/bin/Debug/net8.0/PhonePadApp.runtimeconfig.json
+/workspaces/OldPhonePad/PhonePadApp/bin/Debug/net8.0/PhonePadApp.dll
+/workspaces/OldPhonePad/PhonePadApp/bin/Debug/net8.0/PhonePadApp.pdb
+/workspaces/OldPhonePad/PhonePadApp/obj/Debug/net8.0/PhonePadApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/OldPhonePad/PhonePadApp/obj/Debug/net8.0/PhonePadApp.AssemblyInfoInputs.cache
+/workspaces/OldPhonePad/PhonePadApp/obj/Debug/net8.0/PhonePadApp.AssemblyInfo.cs
+/workspaces/OldPhonePad/PhonePadApp/obj/Debug/net8.0/PhonePadApp.csproj.CoreCompileInputs.cache
+/workspaces/OldPhonePad/PhonePadApp/obj/Debug/net8.0/PhonePadApp.sourcelink.json
+/workspaces/OldPhonePad/PhonePadApp/obj/Debug/net8.0/PhonePadApp.dll
+/workspaces/OldPhonePad/PhonePadApp/obj/Debug/net8.0/refint/PhonePadApp.dll
+/workspaces/OldPhonePad/PhonePadApp/obj/Debug/net8.0/PhonePadApp.pdb
+/workspaces/OldPhonePad/PhonePadApp/obj/Debug/net8.0/PhonePadApp.genruntimeconfig.cache
+/workspaces/OldPhonePad/PhonePadApp/obj/Debug/net8.0/ref/PhonePadApp.dll
